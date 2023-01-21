@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 62E9-A49E
+
+ Directory of C:\Automation\repos\SeleniumSendkeys
+
+01/21/2023  12:18 PM    <DIR>          .
+01/21/2023  12:18 PM    <DIR>          ..
+01/21/2023  12:18 PM               126 git
+01/19/2023  11:00 AM    <DIR>          packages
+01/21/2023  12:06 PM    <DIR>          SeleniumSendkeys
+01/19/2023  11:00 AM             1,154 SeleniumSendkeys.sln
+01/21/2023  12:18 PM                 0 test1.txt
+               3 File(s)          1,280 bytes
+               4 Dir(s)  17,897,332,736 bytes free
