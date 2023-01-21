@@ -1,0 +1,14 @@
+C:\Automation\repos\SeleniumSendkeys\SeleniumSendkeys\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Automation\repos\SeleniumSendkeys\SeleniumSendkeys\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Automation\repos\SeleniumSendkeys\SeleniumSendkeys\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Automation\repos\SeleniumSendkeys\SeleniumSendkeys\bin\Debug\SeleniumSendkeys.exe.config
+C:\Automation\repos\SeleniumSendkeys\SeleniumSendkeys\bin\Debug\SeleniumSendkeys.exe
+C:\Automation\repos\SeleniumSendkeys\SeleniumSendkeys\bin\Debug\SeleniumSendkeys.pdb
+C:\Automation\repos\SeleniumSendkeys\SeleniumSendkeys\bin\Debug\WebDriver.dll
+C:\Automation\repos\SeleniumSendkeys\SeleniumSendkeys\bin\Debug\WebDriver.Support.dll
+C:\Automation\repos\SeleniumSendkeys\SeleniumSendkeys\obj\Debug\SeleniumSendkeys.csproj.AssemblyReference.cache
+C:\Automation\repos\SeleniumSendkeys\SeleniumSendkeys\obj\Debug\SeleniumSendkeys.csproj.SuggestedBindingRedirects.cache
+C:\Automation\repos\SeleniumSendkeys\SeleniumSendkeys\obj\Debug\SeleniumSendkeys.csproj.CoreCompileInputs.cache
+C:\Automation\repos\SeleniumSendkeys\SeleniumSendkeys\obj\Debug\SeleniumSendkeys.csproj.CopyComplete
+C:\Automation\repos\SeleniumSendkeys\SeleniumSendkeys\obj\Debug\SeleniumSendkeys.exe
+C:\Automation\repos\SeleniumSendkeys\SeleniumSendkeys\obj\Debug\SeleniumSendkeys.pdb
